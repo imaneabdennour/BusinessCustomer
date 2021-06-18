@@ -61,7 +61,7 @@ namespace BusinessCustomer.Api
             // Registers api handler.
             services.AddScoped<IParametersHandler, ParametersHandler>();
             // Injection of configuration :
-            services.AddSingleton(Configuration.GetSection("CartegieConfiguration").Get<ApiConfiguration>());
+            services.AddSingleton(Configuration.GetSection("ApiConfiguration").Get<ApiConfiguration>());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
