@@ -1,0 +1,12 @@
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\obj\Debug\netcoreapp3.1\BusinessCustomer.Infrastructure.csprojAssemblyReference.cache
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\obj\Debug\netcoreapp3.1\BusinessCustomer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\obj\Debug\netcoreapp3.1\BusinessCustomer.Infrastructure.AssemblyInfo.cs
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\obj\Debug\netcoreapp3.1\BusinessCustomer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\bin\Debug\netcoreapp3.1\BusinessCustomer.Infrastructure.deps.json
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\bin\Debug\netcoreapp3.1\BusinessCustomer.Infrastructure.dll
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\bin\Debug\netcoreapp3.1\BusinessCustomer.Infrastructure.pdb
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\bin\Debug\netcoreapp3.1\BusinessCustomer.Domain.dll
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\bin\Debug\netcoreapp3.1\BusinessCustomer.Domain.pdb
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\obj\Debug\netcoreapp3.1\BusinessCustomer.Infrastructure.csproj.CopyComplete
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\obj\Debug\netcoreapp3.1\BusinessCustomer.Infrastructure.dll
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Interface\obj\Debug\netcoreapp3.1\BusinessCustomer.Infrastructure.pdb

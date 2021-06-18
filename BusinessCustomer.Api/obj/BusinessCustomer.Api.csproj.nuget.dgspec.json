@@ -1,0 +1,229 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Api\\BusinessCustomer.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Api\\BusinessCustomer.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Api\\BusinessCustomer.Api.csproj",
+        "projectName": "BusinessCustomer.Api",
+        "projectPath": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Api\\BusinessCustomer.Api.csproj",
+        "packagesPath": "C:\\Users\\imane.abdennour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\imane.abdennour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://tfsdropserver:8082/repository/NuGet-Net-Foundation-Preview": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cdiscount.com/nuget-netcore/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Domain\\BusinessCustomer.Domain.csproj": {
+                "projectPath": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Domain\\BusinessCustomer.Domain.csproj"
+              },
+              "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Interface\\BusinessCustomer.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Interface\\BusinessCustomer.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Domain\\BusinessCustomer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Domain\\BusinessCustomer.Domain.csproj",
+        "projectName": "BusinessCustomer.Domain",
+        "projectPath": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Domain\\BusinessCustomer.Domain.csproj",
+        "packagesPath": "C:\\Users\\imane.abdennour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\imane.abdennour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://tfsdropserver:8082/repository/NuGet-Net-Foundation-Preview": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cdiscount.com/nuget-netcore/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Interface\\BusinessCustomer.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Interface\\BusinessCustomer.Infrastructure.csproj",
+        "projectName": "BusinessCustomer.Infrastructure",
+        "projectPath": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Interface\\BusinessCustomer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\imane.abdennour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\imane.abdennour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://tfsdropserver:8082/repository/NuGet-Net-Foundation-Preview": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cdiscount.com/nuget-netcore/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Domain\\BusinessCustomer.Domain.csproj": {
+                "projectPath": "C:\\Users\\imane.abdennour\\source\\repos\\BusinessCustomer\\BusinessCustomer.Domain\\BusinessCustomer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

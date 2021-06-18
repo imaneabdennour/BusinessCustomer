@@ -1,0 +1,9 @@
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Domain\obj\Debug\netcoreapp3.1\BusinessCustomer.Domain.AssemblyInfoInputs.cache
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Domain\obj\Debug\netcoreapp3.1\BusinessCustomer.Domain.AssemblyInfo.cs
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Domain\obj\Debug\netcoreapp3.1\BusinessCustomer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Domain\bin\Debug\netcoreapp3.1\BusinessCustomer.Domain.deps.json
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Domain\bin\Debug\netcoreapp3.1\BusinessCustomer.Domain.dll
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Domain\bin\Debug\netcoreapp3.1\BusinessCustomer.Domain.pdb
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Domain\obj\Debug\netcoreapp3.1\BusinessCustomer.Domain.csprojAssemblyReference.cache
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Domain\obj\Debug\netcoreapp3.1\BusinessCustomer.Domain.dll
+C:\Users\imane.abdennour\source\repos\BusinessCustomer\BusinessCustomer.Domain\obj\Debug\netcoreapp3.1\BusinessCustomer.Domain.pdb
